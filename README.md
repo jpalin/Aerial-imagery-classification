@@ -1,1 +1,3 @@
 # Aerial-imagery-classification
+
+The manual inspection of aerial images (e.g. in the context of the MH370 incident) is the type of task humans are generally not well suited to, due to the ease at which an error can occur. For example, if an individual must view many hundreds of images containing only sea, it would be easy to potentially miss the one image that contained a piece of wreckage. This project aimed to create a classification system to classify images into one of three classes: open ocean, containing only ocean; unknown floating objects, such as debris or wreckage; and a ships class, containing one or more ships. With this system, the process of inspecting aerial imagery can be automated.
